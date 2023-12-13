@@ -10,6 +10,11 @@
   font-size: 2.5rem;
 }
 
+.post-markdown-container h2 {
+  margin-bottom: 2rem;
+  font-size: 2.3rem;
+}
+
 .post-markdown-container h4 {
   margin-bottom: 1.5rem;
   font-size: 2rem;
@@ -17,7 +22,7 @@
 
 .post-markdown-container p {
   text-align: justify;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   line-height: 2.25rem;
   margin-bottom: 1.5rem;
 }
