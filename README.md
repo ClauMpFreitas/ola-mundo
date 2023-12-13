@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
+=======
+=======
+# ola-mundo
+Esse projeto foi criado com o objetivo de adquirir conhecimentos sobre o React Router, permitindo a navegação entre várias páginas dentro da aplicação. Destaca-se pela implementação eficaz de rotas, proporcionando uma experiência de usuário fluida e organizada ao transitar entre os diferentes componentes ou seções do projeto.
+>>>>>>> 0759a5e7cab5ab6e74abf2076dfed710990c25e4
+>>>>>>> origin/master
