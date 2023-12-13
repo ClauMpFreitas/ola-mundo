@@ -1,5 +1,4 @@
 .link {
-<<<<<<< HEAD
   font-size: 1.25rem;
   line-height: 1.5rem;
   color: var(--cor-fonte-principal);
@@ -8,13 +7,3 @@
 .linkDestacado {
   text-decoration: underline;
 }
-=======
-    font-size: 1.25rem;
-    line-height: 1.5rem;
-    color: var(--cor-fonte-principal);
-}
-
-.linkDestacado {
-    text-decoration: underline;
-}
->>>>>>> origin/master
