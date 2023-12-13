@@ -1,13 +1,6 @@
 {
     "compilerOptions": {
-<<<<<<< HEAD
         "baseUrl": "src"
     },
     "include": ["src"]
 }
-=======
-      "baseUrl": "src"
-    },
-    "include": ["src"]
-}
->>>>>>> origin/master
