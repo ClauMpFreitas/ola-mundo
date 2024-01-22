@@ -27,7 +27,11 @@ export default function SobreMim() {
       </p>
       <p className={styles.paragrafo}>
         Estou constantemente em busca de novos conhecimentos para aprimorar
+<<<<<<< HEAD
         minhas habilidades tanto no desenvolvimento front-end quanto back-end.
+=======
+        minhas habilidades tanto no desenvolvimento back-end quanto front-end.
+>>>>>>> 38a7fb0af91683361f9635ad448df73d43396d6d
         Acredito que a programação é como uma arte digital, onde posso expressar
         minha criatividade e resolver problemas de forma única. Meu objetivo?
         Continuar aprendendo e me aprofundando nesse incrível universo da
